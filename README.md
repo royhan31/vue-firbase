@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # my-vue
 
 > learning vue
@@ -31,4 +30,3 @@ npm test
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 =======
 # vue-firbase
->>>>>>> e615f414364549219df65d7716662988a4380a4f
